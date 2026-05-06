@@ -1,0 +1,495 @@
+﻿transaction_id,date,produit,categorie,quantite,prix_unitaire,remise_pct,vendeur,region,client_age,client_genre,mode_paiement,statut,chiffre_affaires,mois,mois_nom,trimestre
+TX00001,2025-02-21,P013,Vestes,1,129.9,30,Marc,Toulouse,66.0,H,Carte,En cours,90.92999999999999,2,Feb,1
+TX00002,2025-02-19,P017,Chaussures,3,149.9,25,Laure,Nantes,64.0,NR,Virement,Livré,337.27500000000003,2,Feb,1
+TX00003,2025-04-12,P012,Vestes,2,89.9,40,Marc,Bordeaux,29.0,NR,Carte,Livré,107.88000000000001,4,Apr,2
+TX00004,2025-04-02,P017,Chaussures,3,149.9,0,Kevin,Strasbourg,35.0,NR,Carte,Livré,449.70000000000005,4,Apr,2
+TX00005,2025-01-27,P012,Vestes,3,89.9,0,Kevin,Marseille,56.0,F,Carte,Livré,269.70000000000005,1,Jan,1
+TX00006,2025-01-17,P007,Hauts,3,19.9,0,Antoine,Nantes,29.0,NR,Carte,Livré,59.699999999999996,1,Jan,1
+TX00007,2025-01-15,P001,Hauts,1,59.9,20,Antoine,Nice,45.0,H,Carte,Livré,47.92,1,Jan,1
+TX00009,2025-02-02,P018,Accessoires,2,119.9,0,Julie,Nantes,26.0,NR,Carte,Retourné,239.8,2,Feb,1
+TX00010,2025-02-22,P004,Bas,1,39.9,0,Marc,Lille,29.0,F,Carte,Livré,39.9,2,Feb,1
+TX00011,2025-04-23,P018,Accessoires,2,119.9,20,Chloé,Toulouse,25.0,F,Carte,En cours,191.84000000000003,4,Apr,2
+TX00012,2025-01-10,P017,Chaussures,2,149.9,0,Sophia,Paris,42.0,F,Carte,Livré,299.8,1,Jan,1
+TX00013,2025-02-19,P014,Vestes,2,99.9,25,Laure,Bordeaux,41.0,F,Espèces,Livré,149.85000000000002,2,Feb,1
+TX00014,2025-02-09,P022,Robes,1,89.9,40,Antoine,Lille,62.0,F,Carte,En cours,53.940000000000005,2,Feb,1
+TX00015,2025-03-28,P024,Hauts,1,29.9,15,Julie,Nantes,23.0,F,Espèces,Livré,25.415,3,Mar,1
+TX00016,2025-03-02,P017,Chaussures,2,149.9,40,Chloé,Strasbourg,52.0,H,Carte,Livré,179.88,3,Mar,1
+TX00017,2025-04-23,P010,Hauts,2,89.9,40,Chloé,Bordeaux,61.0,NR,Virement,En cours,107.88000000000001,4,Apr,2
+TX00018,2025-04-02,P015,Chaussures,1,79.9,15,Julie,Toulouse,60.0,F,Carte,Livré,67.915,4,Apr,2
+TX00020,2025-03-26,P013,Vestes,1,129.9,0,Sophia,Marseille,51.0,F,Carte,Retourné,129.9,3,Mar,1
+TX00021,2025-04-11,P015,Chaussures,1,79.9,5,Antoine,Nice,51.0,NR,Virement,Livré,75.905,4,Apr,2
+TX00022,2025-01-26,P025,Bas,1,39.9,0,Chloé,Lille,43.0,H,Carte,Livré,39.9,1,Jan,1
+TX00023,2025-02-08,P012,Vestes,3,89.9,40,Antoine,Lille,24.0,F,Espèces,Livré,161.82000000000002,2,Feb,1
+TX00024,2025-02-03,P015,Chaussures,2,79.9,0,Marc,Nantes,62.0,F,Espèces,Retourné,159.8,2,Feb,1
+TX00025,2025-04-02,P006,Robes,2,79.9,5,Marc,Lille,62.0,F,Carte,Livré,151.81,4,Apr,2
+TX00026,2025-03-15,P022,Robes,2,89.9,40,Marc,Lyon,47.0,NR,Carte,Livré,107.88000000000001,3,Mar,1
+TX00027,2025-02-12,P016,Chaussures,1,129.9,10,Antoine,Paris,52.0,F,Carte,Retourné,116.91000000000001,2,Feb,1
+TX00028,2025-02-10,P014,Vestes,2,99.9,0,Marc,Paris,21.0,F,Virement,Livré,199.8,2,Feb,1
+TX00029,2025-03-13,P010,Hauts,1,89.9,20,Laure,Nice,30.0,H,Espèces,Livré,71.92,3,Mar,1
+TX00030,2025-02-04,P009,Hauts,3,64.9,10,Laure,Marseille,67.0,NR,Carte,En cours,175.23000000000002,2,Feb,1
+TX00031,2025-02-15,P022,Robes,3,89.9,0,Antoine,Lyon,26.0,H,Virement,Livré,269.70000000000005,2,Feb,1
+TX00032,2025-01-05,P017,Chaussures,3,149.9,15,Marc,Strasbourg,63.0,H,Virement,Retourné,382.245,1,Jan,1
+TX00033,2025-04-08,P020,Accessoires,1,34.9,10,Chloé,Paris,69.0,F,Carte,Livré,31.41,4,Apr,2
+TX00034,2025-01-23,P025,Bas,1,39.9,0,Kevin,Marseille,18.0,H,Espèces,En cours,39.9,1,Jan,1
+TX00035,2025-04-12,P004,Bas,1,39.9,30,Kevin,Lyon,28.0,H,Espèces,Livré,27.929999999999996,4,Apr,2
+TX00037,2025-04-23,P010,Hauts,3,89.9,5,Julie,Lyon,69.0,H,Carte,Livré,256.21500000000003,4,Apr,2
+TX00038,2025-01-21,P020,Accessoires,3,34.9,10,Chloé,Strasbourg,69.0,H,Espèces,Livré,94.22999999999999,1,Jan,1
+TX00039,2025-03-20,P008,Hauts,3,24.9,0,Antoine,Paris,36.0,F,Espèces,Retourné,74.69999999999999,3,Mar,1
+TX00040,2025-04-02,P008,Hauts,1,24.9,25,Kevin,Paris,59.0,F,Carte,Retourné,18.674999999999997,4,Apr,2
+TX00041,2025-01-13,P014,Vestes,1,99.9,30,Laure,Toulouse,29.0,F,Carte,Livré,69.92999999999999,1,Jan,1
+TX00042,2025-01-24,P019,Accessoires,2,45.9,0,Laure,Paris,46.0,H,Carte,Retourné,91.8,1,Jan,1
+TX00043,2025-01-30,P011,Hauts,2,49.9,0,Kevin,Lyon,28.0,H,Virement,Livré,99.8,1,Jan,1
+TX00044,2025-01-27,P024,Hauts,1,29.9,15,Sophia,Toulouse,29.0,H,Espèces,En cours,25.415,1,Jan,1
+TX00045,2025-01-28,P008,Hauts,1,24.9,40,Julie,Bordeaux,61.0,NR,Virement,Livré,14.939999999999998,1,Jan,1
+TX00046,2025-01-31,P008,Hauts,3,24.9,0,Antoine,Nice,53.0,H,Carte,Livré,74.69999999999999,1,Jan,1
+TX00047,2025-02-11,P019,Accessoires,2,45.9,20,Marc,Lyon,19.0,H,Espèces,Livré,73.44,2,Feb,1
+TX00048,2025-02-10,P007,Hauts,1,19.9,40,Julie,Bordeaux,60.0,F,Carte,Retourné,11.94,2,Feb,1
+TX00049,2025-03-09,P010,Hauts,1,89.9,10,Laure,Bordeaux,27.0,F,Virement,Livré,80.91000000000001,3,Mar,1
+TX00050,2025-01-26,P015,Chaussures,1,79.9,0,Julie,Toulouse,23.0,F,Carte,Livré,79.9,1,Jan,1
+TX00052,2025-02-13,P020,Accessoires,2,34.9,0,Antoine,Paris,60.0,F,Carte,En cours,69.8,2,Feb,1
+TX00053,2025-04-19,P025,Bas,2,39.9,20,Kevin,Marseille,67.0,NR,Carte,Livré,63.84,4,Apr,2
+TX00054,2025-04-02,P012,Vestes,1,89.9,5,Sophia,Toulouse,43.0,H,Carte,Livré,85.405,4,Apr,2
+TX00055,2025-02-11,P020,Accessoires,1,34.9,5,Julie,Toulouse,60.0,F,Virement,Livré,33.154999999999994,2,Feb,1
+TX00056,2025-03-19,P025,Bas,2,39.9,0,Chloé,Nice,19.0,F,Espèces,En cours,79.8,3,Mar,1
+TX00057,2025-02-26,P014,Vestes,2,99.9,25,Marc,Marseille,24.0,F,Espèces,Livré,149.85000000000002,2,Feb,1
+TX00058,2025-01-09,P019,Accessoires,2,45.9,20,Antoine,Nantes,56.0,H,Carte,Livré,73.44,1,Jan,1
+TX00059,2025-03-14,P003,Bas,3,49.9,0,Chloé,Nice,60.0,NR,Virement,Livré,149.7,3,Mar,1
+TX00060,2025-01-03,P004,Bas,2,39.9,0,Marc,Lyon,43.0,F,Carte,Livré,79.8,1,Jan,1
+TX00061,2025-04-18,P005,Robes,3,69.9,5,Marc,Nice,29.0,F,Espèces,En cours,199.215,4,Apr,2
+TX00062,2025-01-13,P003,Bas,2,49.9,25,Julie,Lille,64.0,H,Carte,En cours,74.85,1,Jan,1
+TX00063,2025-01-16,P002,Bas,3,54.9,30,Chloé,Lyon,43.0,H,Carte,Retourné,115.28999999999998,1,Jan,1
+TX00064,2025-03-03,P007,Hauts,3,19.9,5,Chloé,Nantes,34.0,H,Espèces,Livré,56.714999999999996,3,Mar,1
+TX00065,2025-01-20,P007,Hauts,2,19.9,25,Marc,Marseille,40.0,NR,Virement,Livré,29.849999999999998,1,Jan,1
+TX00066,2025-01-30,P018,Accessoires,2,119.9,0,Sophia,Paris,68.0,F,Virement,Livré,239.8,1,Jan,1
+TX00067,2025-01-02,P014,Vestes,1,99.9,15,Kevin,Lyon,30.0,H,Carte,Livré,84.915,1,Jan,1
+TX00068,2025-04-15,P004,Bas,1,39.9,5,Antoine,Lille,53.0,H,Carte,Retourné,37.904999999999994,4,Apr,2
+TX00069,2025-01-15,P011,Hauts,1,49.9,0,Julie,Nice,20.0,F,Carte,Livré,49.9,1,Jan,1
+TX00070,2025-03-11,P020,Accessoires,2,34.9,0,Julie,Bordeaux,43.0,F,Virement,En cours,69.8,3,Mar,1
+TX00071,2025-04-27,P008,Hauts,1,24.9,40,Sophia,Nice,28.0,NR,Carte,Retourné,14.939999999999998,4,Apr,2
+TX00072,2025-01-23,P025,Bas,3,39.9,25,Julie,Paris,43.0,NR,Carte,Livré,89.77499999999999,1,Jan,1
+TX00073,2025-01-17,P014,Vestes,1,99.9,0,Sophia,Strasbourg,53.0,F,Carte,Livré,99.9,1,Jan,1
+TX00074,2025-03-12,P011,Hauts,3,49.9,0,Antoine,Marseille,60.0,F,Espèces,Livré,149.7,3,Mar,1
+TX00075,2025-03-23,P006,Robes,1,79.9,0,Antoine,Lyon,45.0,NR,Virement,Livré,79.9,3,Mar,1
+TX00076,2025-02-17,P019,Accessoires,3,45.9,15,Julie,Lyon,67.0,F,Carte,Livré,117.04499999999999,2,Feb,1
+TX00077,2025-02-03,P023,Bas,1,34.9,0,Julie,Nice,33.0,NR,Carte,Retourné,34.9,2,Feb,1
+TX00078,2025-03-27,P010,Hauts,2,89.9,15,Marc,Bordeaux,26.0,F,Carte,Retourné,152.83,3,Mar,1
+TX00079,2025-03-07,P018,Accessoires,2,119.9,0,Marc,Nice,26.0,F,Carte,Livré,239.8,3,Mar,1
+TX00080,2025-04-06,P013,Vestes,1,129.9,10,Laure,Nantes,59.0,H,Espèces,Livré,116.91000000000001,4,Apr,2
+TX00082,2025-03-10,P002,Bas,1,54.9,0,Chloé,Toulouse,18.0,F,Carte,En cours,54.9,3,Mar,1
+TX00083,2025-03-09,P015,Chaussures,2,79.9,40,Antoine,Paris,20.0,NR,Carte,Livré,95.88000000000001,3,Mar,1
+TX00084,2025-03-23,P014,Vestes,1,99.9,0,Chloé,Marseille,56.0,H,Carte,Livré,99.9,3,Mar,1
+TX00085,2025-01-08,P022,Robes,1,89.9,40,Marc,Nice,66.0,F,Carte,Livré,53.940000000000005,1,Jan,1
+TX00086,2025-03-15,P012,Vestes,3,89.9,0,Antoine,Paris,54.0,F,Virement,Livré,269.70000000000005,3,Mar,1
+TX00087,2025-03-27,P014,Vestes,3,99.9,5,Marc,Marseille,23.0,F,Espèces,En cours,284.71500000000003,3,Mar,1
+TX00088,2025-02-03,P020,Accessoires,2,34.9,20,Laure,Marseille,19.0,F,Carte,Livré,55.84,2,Feb,1
+TX00089,2025-04-26,P023,Bas,3,34.9,0,Marc,Marseille,37.0,F,Carte,Livré,104.69999999999999,4,Apr,2
+TX00090,2025-02-15,P013,Vestes,1,129.9,5,Julie,Bordeaux,43.0,NR,Espèces,Livré,123.405,2,Feb,1
+TX00091,2025-02-05,P025,Bas,2,39.9,40,Julie,Bordeaux,27.0,NR,Carte,Retourné,47.879999999999995,2,Feb,1
+TX00092,2025-02-21,P018,Accessoires,3,119.9,30,Marc,Nantes,25.0,F,Carte,Livré,251.79000000000002,2,Feb,1
+TX00093,2025-03-10,P011,Hauts,2,49.9,0,Antoine,Lyon,58.0,H,Espèces,Livré,99.8,3,Mar,1
+TX00094,2025-03-22,P024,Hauts,2,29.9,0,Julie,Lyon,64.0,H,Carte,En cours,59.8,3,Mar,1
+TX00095,2025-03-02,P013,Vestes,1,129.9,5,Kevin,Strasbourg,29.0,NR,Espèces,Retourné,123.405,3,Mar,1
+TX00096,2025-04-22,P022,Robes,2,89.9,10,Julie,Bordeaux,27.0,F,Virement,Livré,161.82000000000002,4,Apr,2
+TX00097,2025-03-30,P005,Robes,2,69.9,20,Kevin,Bordeaux,51.0,F,Virement,Retourné,111.84000000000002,3,Mar,1
+TX00098,2025-02-08,P018,Accessoires,2,119.9,30,Kevin,Lyon,61.0,F,Carte,Livré,167.85999999999999,2,Feb,1
+TX00099,2025-02-14,P016,Chaussures,1,129.9,15,Kevin,Strasbourg,64.0,H,Carte,Livré,110.415,2,Feb,1
+TX00101,2025-04-09,P009,Hauts,1,64.9,10,Antoine,Paris,67.0,H,Carte,Livré,58.410000000000004,4,Apr,2
+TX00102,2025-01-29,P020,Accessoires,1,34.9,0,Sophia,Paris,34.0,F,Carte,Livré,34.9,1,Jan,1
+TX00103,2025-02-14,P011,Hauts,1,49.9,5,Laure,Nantes,55.0,H,Carte,Livré,47.404999999999994,2,Feb,1
+TX00104,2025-04-28,P010,Hauts,2,89.9,10,Marc,Nantes,37.0,F,Espèces,Livré,161.82000000000002,4,Apr,2
+TX00105,2025-03-02,P001,Hauts,2,59.9,25,Sophia,Lyon,19.0,F,Carte,En cours,89.85,3,Mar,1
+TX00106,2025-04-27,P024,Hauts,1,29.9,0,Julie,Strasbourg,39.0,F,Carte,En cours,29.9,4,Apr,2
+TX00107,2025-04-25,P009,Hauts,2,64.9,0,Sophia,Toulouse,52.0,H,Carte,En cours,129.8,4,Apr,2
+TX00108,2025-03-03,P003,Bas,1,49.9,40,Marc,Lyon,38.0,H,Carte,Livré,29.939999999999998,3,Mar,1
+TX00109,2025-04-18,P005,Robes,3,69.9,5,Chloé,Marseille,59.0,H,Carte,Livré,199.215,4,Apr,2
+TX00110,2025-01-25,P013,Vestes,2,129.9,20,Antoine,Bordeaux,63.0,NR,Carte,En cours,207.84000000000003,1,Jan,1
+TX00111,2025-01-08,P005,Robes,1,69.9,5,Julie,Nantes,26.0,F,Carte,Retourné,66.405,1,Jan,1
+TX00112,2025-02-03,P008,Hauts,2,24.9,0,Laure,Toulouse,25.0,NR,Carte,Retourné,49.8,2,Feb,1
+TX00113,2025-01-05,P001,Hauts,3,59.9,30,Antoine,Toulouse,42.0,F,Carte,Retourné,125.78999999999998,1,Jan,1
+TX00114,2025-04-18,P008,Hauts,1,24.9,15,Chloé,Marseille,44.0,H,Espèces,Livré,21.165,4,Apr,2
+TX00115,2025-04-24,P010,Hauts,3,89.9,0,Antoine,Toulouse,47.0,H,Carte,Retourné,269.70000000000005,4,Apr,2
+TX00116,2025-04-01,P024,Hauts,1,29.9,0,Laure,Toulouse,45.0,H,Carte,Livré,29.9,4,Apr,2
+TX00117,2025-01-22,P001,Hauts,1,59.9,0,Laure,Lyon,43.0,H,Carte,Livré,59.9,1,Jan,1
+TX00118,2025-04-10,P012,Vestes,1,89.9,20,Kevin,Paris,48.0,H,Virement,Livré,71.92,4,Apr,2
+TX00119,2025-02-11,P003,Bas,2,49.9,0,Antoine,Lille,37.0,NR,Carte,En cours,99.8,2,Feb,1
+TX00120,2025-01-28,P023,Bas,1,34.9,0,Sophia,Marseille,59.0,H,Virement,Livré,34.9,1,Jan,1
+TX00121,2025-01-15,P009,Hauts,3,64.9,15,Antoine,Toulouse,28.0,F,Carte,Livré,165.495,1,Jan,1
+TX00122,2025-01-26,P005,Robes,1,69.9,40,Kevin,Lyon,34.0,H,Carte,Livré,41.940000000000005,1,Jan,1
+TX00123,2025-04-17,P017,Chaussures,3,149.9,0,Antoine,Nantes,47.0,NR,Carte,En cours,449.70000000000005,4,Apr,2
+TX00124,2025-03-15,P009,Hauts,3,64.9,20,Marc,Marseille,47.0,NR,Carte,Livré,155.76000000000002,3,Mar,1
+TX00125,2025-04-07,P008,Hauts,3,24.9,30,Chloé,Lyon,22.0,H,Carte,Retourné,52.28999999999999,4,Apr,2
+TX00126,2025-01-31,P017,Chaussures,1,149.9,25,Sophia,Nice,36.0,H,Carte,Livré,112.42500000000001,1,Jan,1
+TX00127,2025-01-24,P023,Bas,2,34.9,30,Laure,Lyon,66.0,NR,Carte,Livré,48.85999999999999,1,Jan,1
+TX00128,2025-01-17,P005,Robes,3,69.9,20,Julie,Nantes,39.0,F,Carte,Livré,167.76000000000002,1,Jan,1
+TX00129,2025-03-27,P009,Hauts,2,64.9,0,Sophia,Marseille,64.0,F,Virement,Livré,129.8,3,Mar,1
+TX00130,2025-03-02,P009,Hauts,3,64.9,5,Kevin,Bordeaux,57.0,F,Carte,Retourné,184.965,3,Mar,1
+TX00131,2025-02-28,P009,Hauts,1,64.9,10,Laure,Nice,57.0,NR,Carte,Retourné,58.410000000000004,2,Feb,1
+TX00132,2025-01-12,P005,Robes,2,69.9,25,Chloé,Bordeaux,30.0,H,Carte,Retourné,104.85000000000001,1,Jan,1
+TX00133,2025-01-14,P016,Chaussures,1,129.9,30,Kevin,Lille,43.0,NR,Virement,En cours,90.92999999999999,1,Jan,1
+TX00134,2025-03-04,P001,Hauts,3,59.9,0,Kevin,Strasbourg,38.0,H,Carte,En cours,179.7,3,Mar,1
+TX00135,2025-01-16,P006,Robes,3,79.9,0,Antoine,Lille,31.0,H,Virement,Livré,239.70000000000002,1,Jan,1
+TX00136,2025-04-12,P002,Bas,2,54.9,0,Kevin,Nantes,64.0,H,Carte,Livré,109.8,4,Apr,2
+TX00137,2025-03-17,P003,Bas,1,49.9,15,Marc,Marseille,57.0,H,Carte,Retourné,42.415,3,Mar,1
+TX00138,2025-02-24,P010,Hauts,1,89.9,0,Laure,Strasbourg,27.0,H,Virement,Livré,89.9,2,Feb,1
+TX00139,2025-01-09,P013,Vestes,1,129.9,25,Julie,Nantes,53.0,F,Virement,Livré,97.42500000000001,1,Jan,1
+TX00140,2025-04-25,P019,Accessoires,3,45.9,10,Antoine,Bordeaux,65.0,H,Carte,Livré,123.92999999999999,4,Apr,2
+TX00141,2025-03-01,P016,Chaussures,2,129.9,10,Antoine,Nice,57.0,NR,Carte,Livré,233.82000000000002,3,Mar,1
+TX00142,2025-03-04,P017,Chaussures,3,149.9,25,Laure,Nantes,45.0,NR,Carte,En cours,337.27500000000003,3,Mar,1
+TX00143,2025-01-28,P003,Bas,2,49.9,30,Chloé,Nice,30.0,H,Carte,Livré,69.86,1,Jan,1
+TX00144,2025-03-10,P022,Robes,2,89.9,0,Marc,Toulouse,59.0,F,Carte,Retourné,179.8,3,Mar,1
+TX00145,2025-04-09,P019,Accessoires,3,45.9,20,Laure,Toulouse,43.0,H,Carte,Livré,110.16,4,Apr,2
+TX00146,2025-03-10,P011,Hauts,1,49.9,5,Julie,Lyon,36.0,F,Carte,Retourné,47.404999999999994,3,Mar,1
+TX00147,2025-04-11,P013,Vestes,3,129.9,0,Laure,Lyon,55.0,NR,Carte,Retourné,389.70000000000005,4,Apr,2
+TX00148,2025-04-27,P025,Bas,2,39.9,25,Chloé,Lille,69.0,H,Espèces,Livré,59.849999999999994,4,Apr,2
+TX00149,2025-01-21,P010,Hauts,3,89.9,15,Julie,Paris,35.0,NR,Espèces,Retourné,229.24500000000003,1,Jan,1
+TX00150,2025-03-16,P019,Accessoires,3,45.9,15,Laure,Toulouse,23.0,F,Virement,Livré,117.04499999999999,3,Mar,1
+TX00151,2025-01-28,P006,Robes,3,79.9,20,Julie,Lyon,25.0,F,Virement,En cours,191.76000000000002,1,Jan,1
+TX00152,2025-03-21,P005,Robes,1,69.9,25,Marc,Nice,32.0,F,Carte,En cours,52.425000000000004,3,Mar,1
+TX00153,2025-01-19,P001,Hauts,2,59.9,5,Julie,Nantes,42.0,F,Virement,Livré,113.80999999999999,1,Jan,1
+TX00154,2025-01-13,P017,Chaussures,2,149.9,40,Antoine,Paris,32.0,H,Carte,Livré,179.88,1,Jan,1
+TX00155,2025-01-01,P024,Hauts,1,29.9,15,Sophia,Paris,45.0,F,Carte,Livré,25.415,1,Jan,1
+TX00156,2025-04-09,P025,Bas,1,39.9,10,Sophia,Bordeaux,27.0,H,Carte,Retourné,35.91,4,Apr,2
+TX00157,2025-02-15,P013,Vestes,1,129.9,10,Antoine,Lille,27.0,H,Carte,En cours,116.91000000000001,2,Feb,1
+TX00158,2025-01-07,P010,Hauts,1,89.9,25,Laure,Nice,37.0,NR,Carte,Livré,67.42500000000001,1,Jan,1
+TX00159,2025-01-29,P005,Robes,3,69.9,0,Chloé,Strasbourg,38.0,NR,Carte,Livré,209.70000000000002,1,Jan,1
+TX00160,2025-01-10,P007,Hauts,3,19.9,20,Antoine,Bordeaux,63.0,NR,Virement,Livré,47.76,1,Jan,1
+TX00161,2025-04-24,P016,Chaussures,3,129.9,0,Sophia,Paris,20.0,H,Carte,Livré,389.70000000000005,4,Apr,2
+TX00162,2025-03-07,P015,Chaussures,3,79.9,0,Sophia,Nice,29.0,H,Espèces,Retourné,239.70000000000002,3,Mar,1
+TX00163,2025-02-13,P010,Hauts,2,89.9,0,Laure,Paris,34.0,H,Carte,Livré,179.8,2,Feb,1
+TX00164,2025-04-03,P003,Bas,1,49.9,30,Laure,Lyon,54.0,F,Virement,Livré,34.93,4,Apr,2
+TX00165,2025-01-24,P008,Hauts,3,24.9,15,Marc,Toulouse,43.0,H,Carte,Livré,63.49499999999999,1,Jan,1
+TX00166,2025-01-04,P014,Vestes,2,99.9,5,Antoine,Strasbourg,32.0,F,Carte,En cours,189.81,1,Jan,1
+TX00167,2025-04-18,P019,Accessoires,2,45.9,40,Marc,Lyon,21.0,H,Carte,Livré,55.08,4,Apr,2
+TX00168,2025-03-19,P023,Bas,3,34.9,0,Chloé,Nice,52.0,NR,Carte,Retourné,104.69999999999999,3,Mar,1
+TX00169,2025-04-02,P008,Hauts,2,24.9,20,Sophia,Nice,43.0,H,Espèces,Livré,39.84,4,Apr,2
+TX00170,2025-02-19,P015,Chaussures,2,79.9,10,Kevin,Marseille,49.0,NR,Carte,Livré,143.82000000000002,2,Feb,1
+TX00171,2025-01-28,P019,Accessoires,3,45.9,25,Kevin,Lille,36.0,F,Carte,Livré,103.27499999999999,1,Jan,1
+TX00172,2025-01-26,P009,Hauts,1,64.9,5,Laure,Lille,43.0,F,Virement,Livré,61.655,1,Jan,1
+TX00173,2025-04-09,P015,Chaussures,1,79.9,15,Marc,Nice,47.0,NR,Espèces,Livré,67.915,4,Apr,2
+TX00174,2025-01-07,P001,Hauts,3,59.9,20,Sophia,Marseille,56.0,H,Carte,Livré,143.76,1,Jan,1
+TX00175,2025-01-08,P011,Hauts,2,49.9,25,Marc,Lille,34.0,F,Virement,Livré,74.85,1,Jan,1
+TX00176,2025-01-16,P004,Bas,1,39.9,20,Marc,Toulouse,60.0,H,Carte,Retourné,31.92,1,Jan,1
+TX00177,2025-03-10,P017,Chaussures,1,149.9,10,Marc,Lille,66.0,H,Carte,Livré,134.91,3,Mar,1
+TX00178,2025-02-03,P004,Bas,1,39.9,0,Sophia,Strasbourg,43.0,H,Carte,Livré,39.9,2,Feb,1
+TX00179,2025-02-19,P009,Hauts,3,64.9,0,Sophia,Nice,39.0,NR,Carte,Livré,194.70000000000002,2,Feb,1
+TX00180,2025-04-19,P018,Accessoires,1,119.9,10,Marc,Bordeaux,45.0,F,Carte,Livré,107.91000000000001,4,Apr,2
+TX00181,2025-02-21,P006,Robes,2,79.9,20,Kevin,Strasbourg,66.0,F,Carte,Retourné,127.84000000000002,2,Feb,1
+TX00182,2025-03-03,P009,Hauts,1,64.9,0,Sophia,Bordeaux,36.0,H,Espèces,Retourné,64.9,3,Mar,1
+TX00183,2025-02-19,P004,Bas,1,39.9,30,Julie,Paris,43.0,H,Virement,Livré,27.929999999999996,2,Feb,1
+TX00184,2025-01-07,P014,Vestes,2,99.9,5,Sophia,Strasbourg,25.0,NR,Carte,Livré,189.81,1,Jan,1
+TX00185,2025-04-11,P004,Bas,2,39.9,20,Marc,Bordeaux,68.0,F,Carte,Livré,63.84,4,Apr,2
+TX00186,2025-01-05,P003,Bas,1,49.9,15,Marc,Paris,22.0,F,Carte,En cours,42.415,1,Jan,1
+TX00187,2025-04-26,P008,Hauts,3,24.9,10,Antoine,Marseille,55.0,H,Virement,Livré,67.22999999999999,4,Apr,2
+TX00188,2025-04-01,P001,Hauts,1,59.9,10,Antoine,Bordeaux,56.0,H,Espèces,Livré,53.91,4,Apr,2
+TX00189,2025-03-17,P023,Bas,3,34.9,0,Kevin,Lyon,43.0,F,Carte,En cours,104.69999999999999,3,Mar,1
+TX00190,2025-01-10,P015,Chaussures,2,79.9,0,Antoine,Strasbourg,19.0,H,Carte,Livré,159.8,1,Jan,1
+TX00191,2025-03-14,P024,Hauts,2,29.9,0,Laure,Marseille,51.0,NR,Carte,En cours,59.8,3,Mar,1
+TX00192,2025-03-18,P019,Accessoires,1,45.9,0,Marc,Strasbourg,29.0,F,Carte,Livré,45.9,3,Mar,1
+TX00193,2025-01-18,P024,Hauts,3,29.9,15,Antoine,Lille,61.0,NR,Carte,Livré,76.24499999999999,1,Jan,1
+TX00194,2025-03-04,P025,Bas,3,39.9,25,Laure,Bordeaux,44.0,F,Carte,Livré,89.77499999999999,3,Mar,1
+TX00195,2025-02-20,P018,Accessoires,3,119.9,0,Sophia,Nice,30.0,H,Carte,Livré,359.70000000000005,2,Feb,1
+TX00196,2025-02-25,P017,Chaussures,2,149.9,25,Sophia,Lyon,43.0,H,Carte,Livré,224.85000000000002,2,Feb,1
+TX00197,2025-01-30,P025,Bas,3,39.9,0,Sophia,Nice,48.0,NR,Espèces,Livré,119.69999999999999,1,Jan,1
+TX00198,2025-03-06,P017,Chaussures,2,149.9,0,Antoine,Paris,29.0,H,Virement,Livré,299.8,3,Mar,1
+TX00199,2025-01-02,P011,Hauts,3,49.9,0,Julie,Nice,31.0,H,Carte,Livré,149.7,1,Jan,1
+TX00200,2025-01-13,P024,Hauts,1,29.9,20,Julie,Toulouse,41.0,NR,Espèces,Livré,23.92,1,Jan,1
+TX00201,2025-03-30,P005,Robes,1,69.9,0,Antoine,Lille,68.0,F,Carte,Retourné,69.9,3,Mar,1
+TX00202,2025-01-31,P023,Bas,2,34.9,40,Chloé,Paris,64.0,H,Espèces,Livré,41.879999999999995,1,Jan,1
+TX00203,2025-04-05,P003,Bas,2,49.9,0,Sophia,Nantes,32.0,NR,Espèces,Livré,99.8,4,Apr,2
+TX00204,2025-04-19,P013,Vestes,1,129.9,30,Julie,Strasbourg,23.0,H,Carte,Livré,90.92999999999999,4,Apr,2
+TX00205,2025-01-03,P025,Bas,2,39.9,20,Julie,Toulouse,44.0,H,Espèces,Livré,63.84,1,Jan,1
+TX00206,2025-02-19,P004,Bas,2,39.9,25,Laure,Bordeaux,43.0,NR,Carte,Livré,59.849999999999994,2,Feb,1
+TX00207,2025-03-31,P011,Hauts,3,49.9,40,Julie,Paris,27.0,NR,Carte,Livré,89.82,3,Mar,1
+TX00208,2025-01-02,P002,Bas,2,54.9,20,Sophia,Nice,59.0,F,Virement,Livré,87.84,1,Jan,1
+TX00209,2025-02-08,P024,Hauts,3,29.9,40,Antoine,Lille,21.0,H,Carte,Livré,53.81999999999999,2,Feb,1
+TX00210,2025-04-13,P015,Chaussures,3,79.9,30,Chloé,Strasbourg,43.0,F,Espèces,Livré,167.79,4,Apr,2
+TX00211,2025-02-08,P012,Vestes,3,89.9,0,Chloé,Nice,34.0,F,Carte,Livré,269.70000000000005,2,Feb,1
+TX00212,2025-01-24,P010,Hauts,2,89.9,30,Kevin,Nice,30.0,F,Espèces,Livré,125.86,1,Jan,1
+TX00213,2025-02-10,P014,Vestes,3,99.9,20,Chloé,Bordeaux,40.0,F,Espèces,Livré,239.76000000000005,2,Feb,1
+TX00214,2025-04-03,P002,Bas,1,54.9,0,Antoine,Strasbourg,33.0,F,Carte,Livré,54.9,4,Apr,2
+TX00215,2025-01-10,P012,Vestes,2,89.9,0,Laure,Lille,35.0,NR,Carte,Livré,179.8,1,Jan,1
+TX00216,2025-01-16,P015,Chaussures,3,79.9,30,Chloé,Lille,52.0,H,Carte,En cours,167.79,1,Jan,1
+TX00217,2025-04-05,P023,Bas,1,34.9,10,Kevin,Bordeaux,21.0,F,Carte,Retourné,31.41,4,Apr,2
+TX00218,2025-01-24,P019,Accessoires,3,45.9,5,Antoine,Marseille,24.0,F,Carte,Retourné,130.81499999999997,1,Jan,1
+TX00219,2025-01-22,P024,Hauts,1,29.9,5,Antoine,Bordeaux,55.0,H,Carte,Livré,28.404999999999998,1,Jan,1
+TX00220,2025-04-17,P019,Accessoires,3,45.9,0,Marc,Marseille,69.0,NR,Carte,Livré,137.7,4,Apr,2
+TX00221,2025-02-16,P024,Hauts,1,29.9,40,Marc,Lyon,52.0,H,Carte,Livré,17.939999999999998,2,Feb,1
+TX00222,2025-01-04,P016,Chaussures,1,129.9,5,Laure,Paris,69.0,F,Carte,En cours,123.405,1,Jan,1
+TX00223,2025-01-29,P012,Vestes,1,89.9,0,Sophia,Paris,32.0,H,Espèces,Retourné,89.9,1,Jan,1
+TX00224,2025-03-02,P017,Chaussures,3,149.9,0,Antoine,Lyon,40.0,NR,Carte,Livré,449.70000000000005,3,Mar,1
+TX00225,2025-02-14,P014,Vestes,2,99.9,0,Laure,Paris,41.0,H,Carte,Livré,199.8,2,Feb,1
+TX00226,2025-04-04,P017,Chaussures,2,149.9,40,Sophia,Strasbourg,59.0,NR,Virement,En cours,179.88,4,Apr,2
+TX00227,2025-04-24,P001,Hauts,1,59.9,0,Laure,Toulouse,61.0,F,Carte,Retourné,59.9,4,Apr,2
+TX00228,2025-04-30,P022,Robes,3,89.9,25,Laure,Toulouse,48.0,F,Virement,Livré,202.27500000000003,4,Apr,2
+TX00229,2025-02-06,P016,Chaussures,2,129.9,15,Kevin,Marseille,34.0,NR,Carte,Livré,220.83,2,Feb,1
+TX00230,2025-02-02,P020,Accessoires,3,34.9,15,Laure,Nantes,46.0,H,Carte,Livré,88.99499999999999,2,Feb,1
+TX00231,2025-01-30,P014,Vestes,3,99.9,0,Antoine,Nantes,34.0,F,Espèces,Livré,299.70000000000005,1,Jan,1
+TX00232,2025-04-29,P009,Hauts,3,64.9,10,Marc,Toulouse,69.0,NR,Espèces,Retourné,175.23000000000002,4,Apr,2
+TX00233,2025-03-01,P020,Accessoires,3,34.9,0,Kevin,Lyon,53.0,F,Carte,Livré,104.69999999999999,3,Mar,1
+TX00234,2025-03-19,P002,Bas,2,54.9,30,Kevin,Marseille,51.0,NR,Espèces,Livré,76.86,3,Mar,1
+TX00235,2025-03-14,P006,Robes,2,79.9,0,Sophia,Marseille,38.0,F,Carte,Livré,159.8,3,Mar,1
+TX00236,2025-01-03,P022,Robes,1,89.9,0,Kevin,Toulouse,40.0,F,Espèces,Retourné,89.9,1,Jan,1
+TX00237,2025-04-24,P017,Chaussures,1,149.9,30,Laure,Lyon,68.0,F,Carte,Livré,104.92999999999999,4,Apr,2
+TX00238,2025-01-18,P001,Hauts,2,59.9,10,Marc,Paris,30.0,H,Carte,Livré,107.82,1,Jan,1
+TX00239,2025-03-09,P016,Chaussures,3,129.9,10,Marc,Lyon,29.0,NR,Carte,Livré,350.7300000000001,3,Mar,1
+TX00240,2025-02-19,P013,Vestes,1,129.9,0,Antoine,Lyon,27.0,F,Virement,Livré,129.9,2,Feb,1
+TX00241,2025-03-09,P010,Hauts,3,89.9,25,Sophia,Nice,45.0,H,Carte,Livré,202.27500000000003,3,Mar,1
+TX00242,2025-03-01,P017,Chaussures,3,149.9,0,Marc,Marseille,40.0,F,Espèces,En cours,449.70000000000005,3,Mar,1
+TX00243,2025-04-03,P024,Hauts,1,29.9,5,Marc,Marseille,38.0,H,Carte,Livré,28.404999999999998,4,Apr,2
+TX00244,2025-01-15,P013,Vestes,1,129.9,40,Antoine,Bordeaux,24.0,H,Espèces,Livré,77.94,1,Jan,1
+TX00245,2025-03-30,P018,Accessoires,2,119.9,40,Laure,Marseille,23.0,H,Carte,Livré,143.88,3,Mar,1
+TX00246,2025-03-08,P020,Accessoires,1,34.9,0,Julie,Lille,38.0,H,Espèces,Retourné,34.9,3,Mar,1
+TX00247,2025-02-04,P011,Hauts,2,49.9,0,Antoine,Nantes,27.0,NR,Carte,Livré,99.8,2,Feb,1
+TX00248,2025-03-14,P014,Vestes,1,99.9,40,Kevin,Marseille,61.0,H,Carte,Livré,59.94,3,Mar,1
+TX00249,2025-02-07,P025,Bas,3,39.9,25,Julie,Marseille,57.0,F,Carte,Livré,89.77499999999999,2,Feb,1
+TX00250,2025-03-30,P007,Hauts,3,19.9,0,Sophia,Toulouse,43.0,H,Carte,Livré,59.699999999999996,3,Mar,1
+TX00251,2025-02-27,P007,Hauts,2,19.9,30,Kevin,Lyon,43.0,H,Carte,Livré,27.859999999999996,2,Feb,1
+TX00252,2025-03-18,P020,Accessoires,3,34.9,5,Julie,Nantes,39.0,F,Virement,Livré,99.46499999999999,3,Mar,1
+TX00253,2025-03-28,P020,Accessoires,2,34.9,20,Julie,Paris,43.0,NR,Carte,En cours,55.84,3,Mar,1
+TX00254,2025-02-22,P019,Accessoires,1,45.9,20,Antoine,Marseille,31.0,H,Virement,En cours,36.72,2,Feb,1
+TX00255,2025-03-30,P020,Accessoires,1,34.9,0,Antoine,Nice,54.0,NR,Carte,Livré,34.9,3,Mar,1
+TX00256,2025-02-14,P016,Chaussures,1,129.9,40,Marc,Paris,23.0,F,Carte,Retourné,77.94,2,Feb,1
+TX00257,2025-03-16,P013,Vestes,3,129.9,10,Antoine,Marseille,40.0,NR,Virement,Livré,350.7300000000001,3,Mar,1
+TX00258,2025-02-27,P023,Bas,1,34.9,15,Julie,Bordeaux,62.0,H,Carte,Livré,29.665,2,Feb,1
+TX00259,2025-02-22,P002,Bas,3,54.9,25,Laure,Lille,62.0,H,Carte,En cours,123.52499999999999,2,Feb,1
+TX00260,2025-04-03,P004,Bas,3,39.9,0,Antoine,Marseille,40.0,H,Carte,Livré,119.69999999999999,4,Apr,2
+TX00261,2025-01-16,P017,Chaussures,2,149.9,40,Julie,Lille,68.0,F,Carte,Retourné,179.88,1,Jan,1
+TX00262,2025-03-21,P005,Robes,3,69.9,15,Sophia,Paris,63.0,H,Espèces,Livré,178.245,3,Mar,1
+TX00263,2025-01-06,P011,Hauts,2,49.9,0,Chloé,Lille,32.0,H,Espèces,Livré,99.8,1,Jan,1
+TX00264,2025-01-12,P014,Vestes,1,99.9,0,Laure,Bordeaux,53.0,H,Espèces,Livré,99.9,1,Jan,1
+TX00265,2025-01-10,P003,Bas,2,49.9,30,Laure,Nice,57.0,F,Carte,Livré,69.86,1,Jan,1
+TX00266,2025-01-30,P001,Hauts,1,59.9,0,Julie,Bordeaux,43.0,F,Espèces,Livré,59.9,1,Jan,1
+TX00267,2025-01-31,P011,Hauts,3,49.9,0,Chloé,Nantes,48.0,H,Carte,Livré,149.7,1,Jan,1
+TX00268,2025-04-16,P006,Robes,3,79.9,10,Sophia,Toulouse,34.0,NR,Espèces,Retourné,215.73000000000002,4,Apr,2
+TX00269,2025-04-20,P006,Robes,3,79.9,10,Sophia,Toulouse,59.0,H,Carte,Livré,215.73000000000002,4,Apr,2
+TX00270,2025-03-30,P018,Accessoires,3,119.9,20,Chloé,Paris,22.0,NR,Carte,Livré,287.76000000000005,3,Mar,1
+TX00271,2025-03-27,P015,Chaussures,3,79.9,0,Julie,Lille,29.0,NR,Virement,Livré,239.70000000000002,3,Mar,1
+TX00272,2025-04-09,P019,Accessoires,1,45.9,20,Marc,Nantes,20.0,NR,Carte,Livré,36.72,4,Apr,2
+TX00273,2025-04-15,P023,Bas,1,34.9,5,Antoine,Nice,38.0,H,Espèces,Livré,33.154999999999994,4,Apr,2
+TX00274,2025-02-27,P005,Robes,2,69.9,30,Marc,Lyon,46.0,F,Espèces,Livré,97.86,2,Feb,1
+TX00275,2025-01-06,P023,Bas,2,34.9,0,Marc,Toulouse,52.0,NR,Carte,Livré,69.8,1,Jan,1
+TX00276,2025-02-25,P016,Chaussures,3,129.9,0,Laure,Paris,30.0,F,Virement,Livré,389.70000000000005,2,Feb,1
+TX00277,2025-04-24,P022,Robes,1,89.9,0,Antoine,Nice,18.0,NR,Carte,Retourné,89.9,4,Apr,2
+TX00278,2025-04-02,P011,Hauts,1,49.9,25,Laure,Marseille,44.0,H,Virement,En cours,37.425,4,Apr,2
+TX00279,2025-02-10,P017,Chaussures,3,149.9,0,Julie,Marseille,38.0,F,Carte,Livré,449.70000000000005,2,Feb,1
+TX00280,2025-04-19,P013,Vestes,1,129.9,40,Sophia,Toulouse,64.0,NR,Virement,Livré,77.94,4,Apr,2
+TX00281,2025-01-09,P002,Bas,1,54.9,25,Antoine,Nice,43.0,H,Virement,Retourné,41.175,1,Jan,1
+TX00282,2025-02-25,P006,Robes,1,79.9,40,Julie,Lille,59.0,F,Espèces,Livré,47.940000000000005,2,Feb,1
+TX00283,2025-01-03,P013,Vestes,2,129.9,0,Marc,Lyon,38.0,F,Carte,Livré,259.8,1,Jan,1
+TX00284,2025-01-03,P017,Chaussures,3,149.9,40,Chloé,Marseille,30.0,F,Virement,Livré,269.82,1,Jan,1
+TX00285,2025-01-22,P016,Chaussures,3,129.9,0,Marc,Marseille,54.0,NR,Espèces,Livré,389.70000000000005,1,Jan,1
+TX00286,2025-04-26,P011,Hauts,3,49.9,0,Antoine,Nantes,47.0,F,Carte,Livré,149.7,4,Apr,2
+TX00287,2025-03-30,P018,Accessoires,1,119.9,0,Antoine,Nantes,32.0,F,Carte,Livré,119.9,3,Mar,1
+TX00288,2025-03-08,P019,Accessoires,1,45.9,5,Marc,Bordeaux,40.0,H,Carte,Livré,43.605,3,Mar,1
+TX00289,2025-02-18,P018,Accessoires,2,119.9,40,Chloé,Lille,48.0,NR,Carte,Livré,143.88,2,Feb,1
+TX00290,2025-01-03,P015,Chaussures,2,79.9,15,Kevin,Strasbourg,22.0,F,Carte,Retourné,135.83,1,Jan,1
+TX00291,2025-02-14,P002,Bas,3,54.9,15,Sophia,Nice,45.0,F,Carte,Retourné,139.99499999999998,2,Feb,1
+TX00292,2025-02-27,P009,Hauts,1,64.9,40,Julie,Lyon,43.0,H,Carte,Livré,38.940000000000005,2,Feb,1
+TX00293,2025-03-17,P013,Vestes,2,129.9,20,Kevin,Nice,41.0,H,Virement,Livré,207.84000000000003,3,Mar,1
+TX00294,2025-03-03,P008,Hauts,1,24.9,0,Sophia,Nice,56.0,NR,Carte,Retourné,24.9,3,Mar,1
+TX00295,2025-01-26,P022,Robes,3,89.9,25,Sophia,Lille,45.0,NR,Carte,Livré,202.27500000000003,1,Jan,1
+TX00296,2025-04-27,P001,Hauts,3,59.9,10,Sophia,Toulouse,62.0,F,Espèces,Livré,161.73,4,Apr,2
+TX00297,2025-03-18,P008,Hauts,2,24.9,15,Julie,Lyon,51.0,H,Carte,En cours,42.33,3,Mar,1
+TX00298,2025-02-24,P005,Robes,3,69.9,15,Antoine,Lille,69.0,H,Carte,Livré,178.245,2,Feb,1
+TX00299,2025-04-10,P025,Bas,3,39.9,0,Marc,Lille,44.0,F,Virement,Livré,119.69999999999999,4,Apr,2
+TX00300,2025-03-14,P005,Robes,3,69.9,15,Sophia,Lyon,51.0,NR,Virement,Retourné,178.245,3,Mar,1
+TX00301,2025-03-05,P008,Hauts,2,24.9,30,Antoine,Paris,46.0,H,Carte,Livré,34.85999999999999,3,Mar,1
+TX00302,2025-04-06,P002,Bas,2,54.9,25,Marc,Nantes,33.0,NR,Carte,En cours,82.35,4,Apr,2
+TX00303,2025-03-05,P024,Hauts,3,29.9,25,Julie,Toulouse,28.0,H,Carte,Livré,67.27499999999999,3,Mar,1
+TX00304,2025-01-01,P011,Hauts,3,49.9,15,Sophia,Bordeaux,64.0,H,Carte,Retourné,127.24499999999999,1,Jan,1
+TX00305,2025-03-07,P005,Robes,3,69.9,5,Julie,Bordeaux,36.0,NR,Carte,Livré,199.215,3,Mar,1
+TX00306,2025-01-13,P013,Vestes,3,129.9,5,Laure,Marseille,28.0,F,Carte,Livré,370.21500000000003,1,Jan,1
+TX00307,2025-02-06,P001,Hauts,3,59.9,20,Laure,Lille,36.0,H,Espèces,Livré,143.76,2,Feb,1
+TX00308,2025-01-03,P018,Accessoires,1,119.9,15,Chloé,Bordeaux,67.0,NR,Carte,Livré,101.915,1,Jan,1
+TX00309,2025-04-17,P024,Hauts,2,29.9,10,Marc,Lyon,38.0,H,Carte,Livré,53.82,4,Apr,2
+TX00310,2025-01-10,P020,Accessoires,3,34.9,40,Sophia,Marseille,29.0,H,Virement,Retourné,62.81999999999999,1,Jan,1
+TX00311,2025-03-03,P014,Vestes,2,99.9,0,Sophia,Marseille,40.0,NR,Carte,Retourné,199.8,3,Mar,1
+TX00312,2025-04-02,P013,Vestes,2,129.9,30,Julie,Strasbourg,59.0,H,Carte,En cours,181.85999999999999,4,Apr,2
+TX00313,2025-03-15,P012,Vestes,2,89.9,30,Laure,Paris,43.0,NR,Carte,Retourné,125.86,3,Mar,1
+TX00314,2025-01-06,P011,Hauts,1,49.9,0,Julie,Paris,44.0,NR,Espèces,Livré,49.9,1,Jan,1
+TX00315,2025-02-15,P017,Chaussures,2,149.9,15,Chloé,Nantes,41.0,F,Espèces,Livré,254.83,2,Feb,1
+TX00316,2025-03-24,P015,Chaussures,1,79.9,0,Sophia,Paris,43.0,F,Espèces,Livré,79.9,3,Mar,1
+TX00317,2025-02-09,P024,Hauts,3,29.9,30,Julie,Paris,43.0,H,Carte,Livré,62.789999999999985,2,Feb,1
+TX00318,2025-03-14,P017,Chaussures,2,149.9,20,Julie,Nantes,37.0,NR,Espèces,En cours,239.84000000000003,3,Mar,1
+TX00319,2025-02-03,P012,Vestes,2,89.9,0,Sophia,Nice,49.0,H,Carte,En cours,179.8,2,Feb,1
+TX00320,2025-03-01,P014,Vestes,2,99.9,0,Julie,Toulouse,37.0,F,Carte,En cours,199.8,3,Mar,1
+TX00321,2025-03-10,P014,Vestes,3,99.9,0,Marc,Nice,43.0,H,Carte,En cours,299.70000000000005,3,Mar,1
+TX00322,2025-01-29,P014,Vestes,2,99.9,25,Chloé,Nice,39.0,F,Espèces,Livré,149.85000000000002,1,Jan,1
+TX00323,2025-02-20,P002,Bas,2,54.9,20,Laure,Bordeaux,39.0,NR,Carte,Livré,87.84,2,Feb,1
+TX00324,2025-03-14,P008,Hauts,1,24.9,0,Kevin,Nice,54.0,F,Carte,Livré,24.9,3,Mar,1
+TX00325,2025-04-19,P010,Hauts,3,89.9,0,Laure,Lyon,41.0,F,Virement,Retourné,269.70000000000005,4,Apr,2
+TX00326,2025-01-16,P009,Hauts,3,64.9,0,Kevin,Marseille,25.0,H,Carte,Livré,194.70000000000002,1,Jan,1
+TX00327,2025-01-03,P023,Bas,3,34.9,5,Kevin,Marseille,25.0,F,Carte,Livré,99.46499999999999,1,Jan,1
+TX00328,2025-03-08,P015,Chaussures,3,79.9,0,Laure,Paris,31.0,F,Carte,Retourné,239.70000000000002,3,Mar,1
+TX00329,2025-01-11,P017,Chaussures,3,149.9,30,Sophia,Paris,44.0,H,Carte,Livré,314.79,1,Jan,1
+TX00330,2025-04-16,P016,Chaussures,2,129.9,40,Kevin,Strasbourg,55.0,F,Carte,Livré,155.88,4,Apr,2
+TX00331,2025-03-21,P023,Bas,3,34.9,5,Sophia,Nice,49.0,H,Carte,Livré,99.46499999999999,3,Mar,1
+TX00332,2025-04-13,P020,Accessoires,1,34.9,0,Kevin,Bordeaux,52.0,F,Virement,Livré,34.9,4,Apr,2
+TX00333,2025-01-20,P017,Chaussures,1,149.9,40,Laure,Lille,44.0,NR,Espèces,Livré,89.94,1,Jan,1
+TX00334,2025-03-21,P002,Bas,3,54.9,20,Antoine,Bordeaux,44.0,H,Espèces,En cours,131.76,3,Mar,1
+TX00335,2025-04-27,P007,Hauts,3,19.9,0,Marc,Nantes,43.0,F,Carte,Livré,59.699999999999996,4,Apr,2
+TX00336,2025-02-04,P023,Bas,3,34.9,25,Laure,Toulouse,58.0,NR,Virement,Livré,78.52499999999999,2,Feb,1
+TX00337,2025-03-16,P018,Accessoires,1,119.9,10,Kevin,Bordeaux,63.0,H,Carte,Livré,107.91000000000001,3,Mar,1
+TX00338,2025-04-03,P012,Vestes,1,89.9,10,Antoine,Lille,29.0,NR,Espèces,Retourné,80.91000000000001,4,Apr,2
+TX00339,2025-02-04,P013,Vestes,2,129.9,30,Marc,Nice,34.0,H,Virement,Livré,181.85999999999999,2,Feb,1
+TX00340,2025-01-25,P003,Bas,3,49.9,15,Laure,Strasbourg,51.0,F,Carte,Livré,127.24499999999999,1,Jan,1
+TX00341,2025-02-27,P004,Bas,2,39.9,0,Marc,Lyon,34.0,F,Virement,Retourné,79.8,2,Feb,1
+TX00342,2025-02-17,P019,Accessoires,2,45.9,0,Chloé,Lille,51.0,F,Carte,Retourné,91.8,2,Feb,1
+TX00343,2025-04-28,P012,Vestes,2,89.9,0,Antoine,Strasbourg,36.0,F,Carte,Livré,179.8,4,Apr,2
+TX00344,2025-02-03,P015,Chaussures,1,79.9,15,Laure,Nantes,54.0,F,Carte,Livré,67.915,2,Feb,1
+TX00345,2025-02-02,P010,Hauts,1,89.9,20,Laure,Toulouse,48.0,H,Virement,Livré,71.92,2,Feb,1
+TX00346,2025-02-14,P002,Bas,3,54.9,15,Sophia,Bordeaux,34.0,F,Carte,Livré,139.99499999999998,2,Feb,1
+TX00347,2025-03-29,P016,Chaussures,1,129.9,0,Sophia,Paris,61.0,H,Carte,Livré,129.9,3,Mar,1
+TX00348,2025-04-12,P012,Vestes,2,89.9,25,Antoine,Marseille,44.0,F,Espèces,En cours,134.85000000000002,4,Apr,2
+TX00349,2025-01-28,P022,Robes,2,89.9,30,Kevin,Lyon,18.0,H,Espèces,En cours,125.86,1,Jan,1
+TX00350,2025-02-03,P025,Bas,3,39.9,30,Kevin,Nice,18.0,F,Carte,Livré,83.78999999999999,2,Feb,1
+TX00351,2025-01-28,P001,Hauts,2,59.9,10,Marc,Bordeaux,66.0,F,Carte,Retourné,107.82,1,Jan,1
+TX00352,2025-03-14,P020,Accessoires,1,34.9,20,Julie,Lyon,67.0,H,Carte,Retourné,27.92,3,Mar,1
+TX00353,2025-03-23,P024,Hauts,2,29.9,40,Chloé,Lille,28.0,F,Carte,Livré,35.879999999999995,3,Mar,1
+TX00354,2025-04-16,P005,Robes,3,69.9,40,Antoine,Paris,51.0,NR,Carte,Livré,125.82000000000001,4,Apr,2
+TX00355,2025-04-12,P024,Hauts,3,29.9,5,Chloé,Lille,43.0,H,Virement,Livré,85.21499999999999,4,Apr,2
+TX00356,2025-02-20,P013,Vestes,3,129.9,0,Laure,Toulouse,60.0,NR,Virement,Livré,389.70000000000005,2,Feb,1
+TX00357,2025-03-10,P023,Bas,3,34.9,0,Marc,Nantes,68.0,H,Virement,Livré,104.69999999999999,3,Mar,1
+TX00358,2025-02-16,P011,Hauts,2,49.9,0,Chloé,Nice,32.0,F,Carte,Livré,99.8,2,Feb,1
+TX00359,2025-01-08,P023,Bas,2,34.9,10,Laure,Marseille,69.0,NR,Carte,Livré,62.82,1,Jan,1
+TX00360,2025-04-04,P015,Chaussures,2,79.9,5,Chloé,Lille,56.0,F,Carte,En cours,151.81,4,Apr,2
+TX00361,2025-03-14,P006,Robes,2,79.9,20,Kevin,Nantes,27.0,F,Virement,En cours,127.84000000000002,3,Mar,1
+TX00362,2025-01-19,P018,Accessoires,2,119.9,15,Marc,Paris,32.0,NR,Virement,Retourné,203.83,1,Jan,1
+TX00363,2025-02-18,P009,Hauts,2,64.9,0,Sophia,Lyon,48.0,NR,Espèces,En cours,129.8,2,Feb,1
+TX00364,2025-03-24,P025,Bas,1,39.9,10,Laure,Bordeaux,43.0,F,Carte,Livré,35.91,3,Mar,1
+TX00365,2025-03-26,P024,Hauts,3,29.9,0,Julie,Lille,61.0,H,Carte,Retourné,89.69999999999999,3,Mar,1
+TX00366,2025-04-11,P005,Robes,3,69.9,25,Kevin,Lille,40.0,F,Virement,Livré,157.275,4,Apr,2
+TX00367,2025-04-21,P018,Accessoires,3,119.9,15,Chloé,Paris,43.0,H,Espèces,En cours,305.745,4,Apr,2
+TX00368,2025-02-11,P001,Hauts,2,59.9,40,Antoine,Toulouse,37.0,H,Carte,En cours,71.88,2,Feb,1
+TX00369,2025-03-17,P024,Hauts,3,29.9,20,Marc,Nantes,44.0,F,Carte,Livré,71.75999999999999,3,Mar,1
+TX00370,2025-03-05,P025,Bas,1,39.9,0,Laure,Strasbourg,18.0,H,Virement,En cours,39.9,3,Mar,1
+TX00371,2025-04-13,P004,Bas,2,39.9,15,Laure,Toulouse,21.0,H,Espèces,Livré,67.83,4,Apr,2
+TX00372,2025-04-08,P004,Bas,1,39.9,0,Sophia,Lyon,64.0,F,Carte,Livré,39.9,4,Apr,2
+TX00373,2025-02-16,P007,Hauts,2,19.9,5,Sophia,Toulouse,43.0,F,Carte,Livré,37.809999999999995,2,Feb,1
+TX00374,2025-04-24,P024,Hauts,1,29.9,40,Marc,Bordeaux,55.0,F,Virement,Retourné,17.939999999999998,4,Apr,2
+TX00375,2025-02-21,P018,Accessoires,1,119.9,20,Julie,Toulouse,20.0,F,Carte,Livré,95.92000000000002,2,Feb,1
+TX00376,2025-04-20,P002,Bas,2,54.9,20,Antoine,Paris,29.0,F,Carte,Livré,87.84,4,Apr,2
+TX00377,2025-04-18,P022,Robes,3,89.9,0,Chloé,Marseille,43.0,NR,Virement,Livré,269.70000000000005,4,Apr,2
+TX00378,2025-02-16,P016,Chaussures,1,129.9,0,Laure,Nantes,37.0,F,Carte,Livré,129.9,2,Feb,1
+TX00379,2025-04-19,P022,Robes,1,89.9,0,Kevin,Bordeaux,57.0,F,Carte,Livré,89.9,4,Apr,2
+TX00380,2025-03-23,P019,Accessoires,1,45.9,0,Antoine,Nice,46.0,H,Carte,Livré,45.9,3,Mar,1
+TX00381,2025-02-16,P009,Hauts,3,64.9,0,Antoine,Lyon,27.0,F,Espèces,En cours,194.70000000000002,2,Feb,1
+TX00382,2025-04-18,P011,Hauts,2,49.9,30,Chloé,Lille,52.0,F,Carte,Livré,69.86,4,Apr,2
+TX00383,2025-02-04,P006,Robes,1,79.9,30,Laure,Nice,43.0,NR,Carte,Livré,55.93,2,Feb,1
+TX00384,2025-02-20,P008,Hauts,2,24.9,20,Marc,Bordeaux,43.0,H,Carte,Livré,39.84,2,Feb,1
+TX00385,2025-04-03,P020,Accessoires,1,34.9,15,Laure,Bordeaux,64.0,H,Carte,Livré,29.665,4,Apr,2
+TX00386,2025-03-29,P012,Vestes,1,89.9,0,Sophia,Nantes,51.0,H,Espèces,Livré,89.9,3,Mar,1
+TX00387,2025-03-17,P017,Chaussures,3,149.9,5,Antoine,Strasbourg,31.0,H,Carte,Livré,427.21500000000003,3,Mar,1
+TX00388,2025-01-23,P023,Bas,1,34.9,0,Sophia,Lille,37.0,F,Espèces,Livré,34.9,1,Jan,1
+TX00389,2025-02-20,P011,Hauts,3,49.9,15,Antoine,Nantes,29.0,NR,Espèces,En cours,127.24499999999999,2,Feb,1
+TX00390,2025-03-29,P008,Hauts,3,24.9,0,Kevin,Bordeaux,28.0,F,Carte,En cours,74.69999999999999,3,Mar,1
+TX00391,2025-01-29,P004,Bas,2,39.9,5,Laure,Nantes,59.0,NR,Carte,Livré,75.80999999999999,1,Jan,1
+TX00392,2025-03-25,P016,Chaussures,2,129.9,0,Laure,Marseille,36.0,H,Virement,Livré,259.8,3,Mar,1
+TX00393,2025-01-29,P020,Accessoires,2,34.9,25,Antoine,Nantes,34.0,F,Carte,Livré,52.349999999999994,1,Jan,1
+TX00394,2025-02-22,P020,Accessoires,1,34.9,5,Sophia,Nice,29.0,F,Carte,Livré,33.154999999999994,2,Feb,1
+TX00395,2025-01-12,P010,Hauts,2,89.9,20,Kevin,Paris,20.0,H,Carte,Livré,143.84,1,Jan,1
+TX00396,2025-03-03,P020,Accessoires,2,34.9,15,Marc,Toulouse,33.0,H,Carte,Livré,59.33,3,Mar,1
+TX00397,2025-01-28,P016,Chaussures,2,129.9,0,Antoine,Strasbourg,43.0,H,Carte,Livré,259.8,1,Jan,1
+TX00398,2025-02-13,P015,Chaussures,2,79.9,25,Chloé,Lille,43.0,F,Carte,En cours,119.85000000000001,2,Feb,1
+TX00399,2025-04-15,P017,Chaussures,3,149.9,40,Julie,Strasbourg,27.0,F,Carte,Livré,269.82,4,Apr,2
+TX00400,2025-04-27,P015,Chaussures,2,79.9,25,Julie,Lille,46.0,F,Espèces,Livré,119.85000000000001,4,Apr,2
+TX00401,2025-03-03,P012,Vestes,3,89.9,10,Antoine,Toulouse,42.0,H,Carte,Livré,242.73000000000005,3,Mar,1
+TX00402,2025-02-19,P010,Hauts,1,89.9,0,Chloé,Lille,28.0,H,Carte,Livré,89.9,2,Feb,1
+TX00403,2025-03-29,P004,Bas,3,39.9,5,Laure,Toulouse,68.0,F,Carte,Retourné,113.71499999999999,3,Mar,1
+TX00404,2025-01-18,P008,Hauts,1,24.9,0,Marc,Toulouse,25.0,F,Carte,Livré,24.9,1,Jan,1
+TX00405,2025-04-18,P020,Accessoires,2,34.9,25,Julie,Lyon,42.0,F,Carte,Livré,52.349999999999994,4,Apr,2
+TX00406,2025-01-06,P010,Hauts,1,89.9,5,Kevin,Nice,53.0,NR,Carte,Livré,85.405,1,Jan,1
+TX00407,2025-04-06,P014,Vestes,3,99.9,0,Kevin,Nantes,31.0,F,Carte,Livré,299.70000000000005,4,Apr,2
+TX00408,2025-03-19,P010,Hauts,2,89.9,10,Marc,Marseille,68.0,F,Espèces,En cours,161.82000000000002,3,Mar,1
+TX00409,2025-01-22,P003,Bas,2,49.9,30,Laure,Lille,40.0,F,Carte,Retourné,69.86,1,Jan,1
+TX00410,2025-04-05,P017,Chaussures,3,149.9,0,Marc,Strasbourg,63.0,H,Espèces,Livré,449.70000000000005,4,Apr,2
+TX00411,2025-04-24,P018,Accessoires,1,119.9,5,Laure,Bordeaux,44.0,H,Virement,Livré,113.905,4,Apr,2
+TX00412,2025-01-26,P005,Robes,2,69.9,0,Julie,Marseille,53.0,H,Carte,Livré,139.8,1,Jan,1
+TX00413,2025-03-26,P025,Bas,3,39.9,0,Julie,Strasbourg,52.0,F,Carte,En cours,119.69999999999999,3,Mar,1
+TX00414,2025-02-05,P003,Bas,2,49.9,15,Marc,Strasbourg,28.0,H,Espèces,Retourné,84.83,2,Feb,1
+TX00415,2025-04-03,P023,Bas,1,34.9,10,Marc,Lyon,68.0,F,Carte,Livré,31.41,4,Apr,2
+TX00416,2025-03-04,P006,Robes,2,79.9,15,Sophia,Bordeaux,46.0,H,Carte,Livré,135.83,3,Mar,1
+TX00417,2025-01-30,P020,Accessoires,3,34.9,5,Sophia,Bordeaux,57.0,H,Carte,Livré,99.46499999999999,1,Jan,1
+TX00418,2025-01-31,P009,Hauts,1,64.9,40,Sophia,Marseille,68.0,F,Carte,Livré,38.940000000000005,1,Jan,1
+TX00419,2025-02-28,P022,Robes,3,89.9,15,Antoine,Paris,64.0,F,Espèces,Livré,229.24500000000003,2,Feb,1
+TX00420,2025-02-03,P007,Hauts,1,19.9,0,Laure,Strasbourg,49.0,H,Carte,Livré,19.9,2,Feb,1
+TX00421,2025-01-18,P017,Chaussures,2,149.9,0,Antoine,Bordeaux,63.0,H,Carte,Livré,299.8,1,Jan,1
+TX00422,2025-02-10,P006,Robes,3,79.9,10,Julie,Toulouse,37.0,F,Carte,Livré,215.73000000000002,2,Feb,1
+TX00423,2025-01-15,P005,Robes,3,69.9,40,Kevin,Toulouse,41.0,F,Carte,Livré,125.82000000000001,1,Jan,1
+TX00424,2025-02-16,P011,Hauts,2,49.9,0,Marc,Bordeaux,58.0,F,Carte,Livré,99.8,2,Feb,1
+TX00425,2025-01-15,P007,Hauts,1,19.9,0,Julie,Nantes,43.0,H,Virement,Livré,19.9,1,Jan,1
+TX00426,2025-04-30,P008,Hauts,3,24.9,10,Chloé,Toulouse,38.0,H,Carte,Retourné,67.22999999999999,4,Apr,2
+TX00427,2025-04-21,P022,Robes,3,89.9,30,Kevin,Lille,31.0,F,Carte,Livré,188.79000000000002,4,Apr,2
+TX00428,2025-02-11,P017,Chaussures,2,149.9,10,Kevin,Paris,68.0,NR,Carte,Livré,269.82,2,Feb,1
+TX00429,2025-04-07,P015,Chaussures,3,79.9,0,Antoine,Paris,64.0,F,Carte,En cours,239.70000000000002,4,Apr,2
+TX00430,2025-02-06,P004,Bas,1,39.9,10,Laure,Toulouse,46.0,H,Virement,Livré,35.91,2,Feb,1
+TX00431,2025-04-11,P024,Hauts,3,29.9,0,Marc,Lyon,54.0,H,Carte,En cours,89.69999999999999,4,Apr,2
+TX00432,2025-03-22,P006,Robes,3,79.9,40,Antoine,Nice,57.0,F,Carte,Retourné,143.82,3,Mar,1
+TX00433,2025-03-17,P006,Robes,1,79.9,30,Julie,Lille,30.0,H,Carte,Livré,55.93,3,Mar,1
+TX00434,2025-03-27,P018,Accessoires,3,119.9,20,Sophia,Lille,67.0,F,Carte,Livré,287.76000000000005,3,Mar,1
+TX00435,2025-03-30,P024,Hauts,2,29.9,0,Sophia,Strasbourg,57.0,H,Carte,Livré,59.8,3,Mar,1
+TX00436,2025-03-01,P018,Accessoires,1,119.9,0,Kevin,Marseille,38.0,F,Virement,En cours,119.9,3,Mar,1
+TX00437,2025-04-27,P014,Vestes,1,99.9,0,Laure,Bordeaux,36.0,H,Carte,Retourné,99.9,4,Apr,2
+TX00438,2025-02-22,P024,Hauts,1,29.9,0,Marc,Nice,50.0,H,Carte,Livré,29.9,2,Feb,1
+TX00439,2025-04-06,P022,Robes,2,89.9,0,Julie,Strasbourg,64.0,H,Carte,Retourné,179.8,4,Apr,2
+TX00440,2025-02-25,P024,Hauts,2,29.9,30,Chloé,Nice,63.0,NR,Espèces,Livré,41.85999999999999,2,Feb,1
+TX00441,2025-04-14,P003,Bas,2,49.9,0,Julie,Strasbourg,52.0,H,Carte,Retourné,99.8,4,Apr,2
+TX00442,2025-04-22,P007,Hauts,2,19.9,10,Chloé,Lyon,59.0,F,Carte,Livré,35.82,4,Apr,2
+TX00443,2025-02-17,P018,Accessoires,2,119.9,0,Sophia,Toulouse,43.0,NR,Carte,Livré,239.8,2,Feb,1
+TX00444,2025-03-25,P007,Hauts,3,19.9,0,Kevin,Lille,69.0,F,Espèces,Retourné,59.699999999999996,3,Mar,1
+TX00445,2025-04-13,P013,Vestes,2,129.9,30,Sophia,Lyon,19.0,F,Carte,Livré,181.85999999999999,4,Apr,2
+TX00446,2025-03-20,P009,Hauts,1,64.9,0,Marc,Lille,42.0,H,Espèces,Livré,64.9,3,Mar,1
+TX00447,2025-02-26,P012,Vestes,3,89.9,20,Antoine,Lyon,31.0,F,Carte,Retourné,215.76000000000005,2,Feb,1
+TX00448,2025-03-12,P015,Chaussures,3,79.9,0,Laure,Nantes,41.0,F,Carte,Retourné,239.70000000000002,3,Mar,1
+TX00449,2025-04-17,P008,Hauts,3,24.9,40,Julie,Paris,21.0,H,Carte,Retourné,44.81999999999999,4,Apr,2
+TX00450,2025-04-18,P013,Vestes,2,129.9,10,Marc,Nantes,46.0,H,Virement,Livré,233.82000000000002,4,Apr,2
+TX00451,2025-03-30,P006,Robes,1,79.9,0,Julie,Lille,55.0,H,Carte,Livré,79.9,3,Mar,1
+TX00452,2025-04-11,P006,Robes,1,79.9,10,Marc,Nantes,38.0,H,Carte,Livré,71.91000000000001,4,Apr,2
+TX00453,2025-01-10,P019,Accessoires,3,45.9,0,Julie,Nantes,55.0,F,Carte,En cours,137.7,1,Jan,1
+TX00454,2025-02-09,P007,Hauts,3,19.9,25,Laure,Toulouse,44.0,F,Carte,Livré,44.775,2,Feb,1
+TX00455,2025-01-14,P012,Vestes,1,89.9,30,Marc,Lille,36.0,H,Carte,Livré,62.93,1,Jan,1
+TX00456,2025-03-19,P009,Hauts,1,64.9,0,Sophia,Nantes,26.0,F,Carte,Livré,64.9,3,Mar,1
+TX00457,2025-04-27,P025,Bas,3,39.9,40,Antoine,Marseille,68.0,H,Carte,Livré,71.82,4,Apr,2
+TX00458,2025-02-03,P004,Bas,1,39.9,15,Sophia,Nice,28.0,F,Carte,Retourné,33.915,2,Feb,1
+TX00459,2025-01-05,P011,Hauts,2,49.9,0,Marc,Bordeaux,35.0,H,Virement,Livré,99.8,1,Jan,1
+TX00460,2025-04-04,P018,Accessoires,1,119.9,30,Laure,Marseille,41.0,H,Carte,Livré,83.92999999999999,4,Apr,2
+TX00461,2025-02-13,P004,Bas,1,39.9,0,Antoine,Nice,49.0,H,Virement,Livré,39.9,2,Feb,1
+TX00462,2025-02-27,P018,Accessoires,3,119.9,0,Sophia,Lille,30.0,F,Carte,Livré,359.70000000000005,2,Feb,1
+TX00463,2025-04-22,P013,Vestes,1,129.9,0,Laure,Paris,68.0,NR,Carte,En cours,129.9,4,Apr,2
+TX00464,2025-02-02,P018,Accessoires,1,119.9,30,Laure,Lille,43.0,NR,Carte,Livré,83.92999999999999,2,Feb,1
+TX00465,2025-03-06,P017,Chaussures,3,149.9,0,Chloé,Marseille,40.0,H,Carte,Livré,449.70000000000005,3,Mar,1
+TX00466,2025-02-20,P023,Bas,3,34.9,30,Sophia,Paris,58.0,NR,Carte,Retourné,73.28999999999999,2,Feb,1
+TX00467,2025-03-03,P009,Hauts,3,64.9,20,Chloé,Strasbourg,65.0,F,Carte,En cours,155.76000000000002,3,Mar,1
+TX00468,2025-01-10,P016,Chaussures,3,129.9,5,Julie,Toulouse,59.0,H,Carte,En cours,370.21500000000003,1,Jan,1
+TX00469,2025-03-27,P017,Chaussures,1,149.9,0,Antoine,Toulouse,43.0,F,Carte,En cours,149.9,3,Mar,1
+TX00470,2025-01-30,P001,Hauts,2,59.9,25,Laure,Toulouse,53.0,F,Carte,Livré,89.85,1,Jan,1
+TX00471,2025-04-26,P006,Robes,3,79.9,25,Julie,Nantes,30.0,NR,Carte,Livré,179.775,4,Apr,2
+TX00472,2025-02-16,P011,Hauts,1,49.9,0,Antoine,Lille,29.0,H,Espèces,En cours,49.9,2,Feb,1
+TX00473,2025-03-02,P006,Robes,1,79.9,0,Marc,Nice,60.0,F,Carte,Livré,79.9,3,Mar,1
+TX00474,2025-01-22,P004,Bas,2,39.9,0,Chloé,Paris,32.0,F,Carte,Livré,79.8,1,Jan,1
+TX00475,2025-01-05,P010,Hauts,1,89.9,5,Marc,Nice,41.0,H,Carte,Retourné,85.405,1,Jan,1
+TX00476,2025-02-15,P010,Hauts,1,89.9,25,Antoine,Marseille,22.0,F,Virement,Retourné,67.42500000000001,2,Feb,1
+TX00477,2025-02-25,P006,Robes,2,79.9,0,Marc,Strasbourg,24.0,NR,Virement,Livré,159.8,2,Feb,1
+TX00478,2025-04-03,P019,Accessoires,2,45.9,10,Kevin,Nice,33.0,NR,Espèces,Livré,82.62,4,Apr,2
+TX00479,2025-04-27,P007,Hauts,2,19.9,40,Laure,Nantes,38.0,H,Virement,Livré,23.88,4,Apr,2
+TX00480,2025-04-18,P008,Hauts,2,24.9,15,Laure,Strasbourg,64.0,NR,Carte,Livré,42.33,4,Apr,2
+TX00481,2025-01-04,P024,Hauts,2,29.9,0,Kevin,Strasbourg,44.0,H,Carte,Livré,59.8,1,Jan,1
+TX00482,2025-02-15,P009,Hauts,1,64.9,40,Antoine,Bordeaux,41.0,NR,Espèces,Livré,38.940000000000005,2,Feb,1
+TX00483,2025-04-27,P012,Vestes,1,89.9,0,Chloé,Toulouse,38.0,NR,Carte,Retourné,89.9,4,Apr,2
+TX00484,2025-03-14,P020,Accessoires,3,34.9,0,Julie,Nice,24.0,F,Carte,En cours,104.69999999999999,3,Mar,1
+TX00485,2025-03-23,P020,Accessoires,2,34.9,0,Sophia,Lyon,43.0,NR,Carte,Livré,69.8,3,Mar,1
+TX00486,2025-02-15,P004,Bas,2,39.9,5,Marc,Strasbourg,50.0,F,Carte,Retourné,75.80999999999999,2,Feb,1
+TX00487,2025-01-07,P022,Robes,3,89.9,0,Antoine,Bordeaux,68.0,H,Carte,En cours,269.70000000000005,1,Jan,1
+TX00488,2025-04-01,P023,Bas,2,34.9,20,Marc,Bordeaux,54.0,H,Espèces,Livré,55.84,4,Apr,2
+TX00489,2025-01-31,P017,Chaussures,2,149.9,0,Marc,Strasbourg,68.0,F,Carte,Retourné,299.8,1,Jan,1
+TX00490,2025-02-14,P022,Robes,3,89.9,0,Julie,Strasbourg,27.0,F,Carte,En cours,269.70000000000005,2,Feb,1
+TX00491,2025-02-11,P023,Bas,3,34.9,25,Chloé,Paris,43.0,H,Carte,Livré,78.52499999999999,2,Feb,1
+TX00492,2025-04-16,P018,Accessoires,3,119.9,10,Kevin,Nantes,39.0,F,Carte,Livré,323.7300000000001,4,Apr,2
+TX00493,2025-02-04,P018,Accessoires,3,119.9,40,Chloé,Marseille,23.0,F,Virement,Livré,215.82000000000002,2,Feb,1
+TX00494,2025-02-17,P001,Hauts,1,59.9,0,Sophia,Nice,66.0,H,Carte,Livré,59.9,2,Feb,1
+TX00495,2025-02-08,P003,Bas,3,49.9,0,Laure,Bordeaux,40.0,F,Carte,Livré,149.7,2,Feb,1
+TX00496,2025-04-15,P023,Bas,2,34.9,40,Julie,Nice,39.0,H,Espèces,Livré,41.879999999999995,4,Apr,2
+TX00497,2025-03-23,P008,Hauts,2,24.9,25,Sophia,Lyon,67.0,H,Carte,Livré,37.349999999999994,3,Mar,1
+TX00498,2025-03-29,P009,Hauts,3,64.9,0,Sophia,Lyon,36.0,H,Carte,Livré,194.70000000000002,3,Mar,1
+TX00499,2025-03-29,P017,Chaussures,2,149.9,20,Kevin,Lille,36.0,H,Carte,Livré,239.84000000000003,3,Mar,1
+TX00500,2025-04-03,P017,Chaussures,1,149.9,15,Antoine,Nantes,45.0,NR,Espèces,Livré,127.415,4,Apr,2
